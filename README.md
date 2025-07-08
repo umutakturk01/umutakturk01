@@ -16,7 +16,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://akturkumut.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" height="30" style="vertical-align: middle; color:rgb(0,0,0);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" height="30" style="vertical-align: middle; color:rgb(255,255,255);" />
   </a>
 </p>
 
