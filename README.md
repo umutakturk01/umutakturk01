@@ -8,12 +8,12 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 16px; align-items: center; margin: 0;">
   <a href="https://www.linkedin.com/in/umut-aktürk" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" />
   </a>
   <a href="mailto:akturkumut54@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align: middle; margin-top: 2px;" />
   </a>
   <a href="https://akturkumut.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Web-icon-voltrans.png" alt="Website" height="30" style="vertical-align: middle;" />
