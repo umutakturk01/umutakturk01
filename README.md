@@ -8,15 +8,16 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/umut-aktürk" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutakturk" height="30" width="40" /></a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" />
+  </a>
   <a href="mailto:akturkumut54@gmail.com" target="_blank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="akturkumut54@gmail.com" height="30" width="40" /></a> 
-  <a href="https://akturkumut.com" target="_blank"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" height="30" width="40"/>
-</a>
- 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align: middle;" />
+  </a>
+  <a href="https://akturkumut.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" height="30" style="vertical-align: middle;" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
