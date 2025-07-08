@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/umut-aktürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutakturk" height="30" width="40" /></a>
-  <a href="mailto:akturkumut54@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/gmail.png" alt="gmail" height="30" width="40" colo /></a>
+  <a href="mailto:akturkumut54@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="color: red;" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
