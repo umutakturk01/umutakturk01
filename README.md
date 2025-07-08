@@ -9,8 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/umut-aktürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutakturk" height="30" width="40" /></a>
-  <a href="mailto:akturkumut54@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" /></a> 
+  <a href="https://www.linkedin.com/in/umut-aktürk" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutakturk" height="30" width="40" /></a>
+  <a href="mailto:akturkumut54@gmail.com" target="_blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="akturkumut54@gmail.com" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
