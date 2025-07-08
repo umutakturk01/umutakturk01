@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umut AKTÜRK</h1>
 
-<p align="center">
-  I develop modern websites using React and Next.js.<br>
-  I have experience with image processing using OpenCV.<br>
-  I build mobile applications with React Native and Flutter.<br>
-  I'm improving my skills in backend and UI/UX design.
+<p align="left">
+ - I develop modern websites using React and Next.js.<br>
+ - I have experience with image processing using OpenCV.<br>
+ - I build mobile applications with React Native and Flutter.<br>
+ - I'm improving my skills in backend and UI/UX design.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
